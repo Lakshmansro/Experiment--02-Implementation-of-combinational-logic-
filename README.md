@@ -1,7 +1,7 @@
 # Experiment-02 Implementation of combinational logic
 
-### Name: Sri lakshman S
-### RegisterNumber: 23004121
+### Name: Sri lakshman 
+### RegisterNumber: 212223240159
 
 Implementation of combinational logic gates
  
